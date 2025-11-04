@@ -18,6 +18,7 @@ Repository ini dibuat untuk keperluan development frontend menggunakan React.
    ```
 Aplikasi akan secara default berjalan di:
 http://localhost:3000
+
 3. Build aplikasi production
 ```bash
 npm run build
