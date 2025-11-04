@@ -37,5 +37,7 @@ Jika terdapat kendala atau pertanyaan lebih lanjut, silakan hubungi:
 📱 WhatsApp: 0896-5842-0438
 
 Terima kasih!
+
 Regards,
+
 Ecep Achmad Sutisna
